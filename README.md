@@ -4,4 +4,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arlac77&repo=svelte-guard-history-router)](https://github.com/arlac77/svelte-guard-history-router)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arlac77&repo=svelte-session-manager)](https://github.com/arlac77/svelte-session-manager)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arlac77&repo=npm-template-sync)](https://github.com/arlac77/npm-template-sync)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=template-tools&repo=template-sync)](https://github.com/template-tools/template-sync)
